@@ -1,13 +1,8 @@
-# regex-matchingURL
-This gist provides a tutorial on regex pattern matching on a URL, with descriptions of how each regular expression component works, and examples on how to use.
+# Title (replace with your title)
+
+Introductory paragraph (replace this with your text)
 
 ## Summary
-
-Regular Expression for Matching a URL
-
-    
- 
-This regular expression, or regex, pattern can be used to match a URL type.  
 
 Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
 
@@ -26,7 +21,6 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
-
 
 ### Anchors
 
