@@ -84,6 +84,8 @@ while ((array = regexMatchingURL.exec(sampleString)) !== null) {
 
 * A useful tool you may use to test your regex pattern, to demonstrate if the regex pattern matches your expected string results or not, is located here: [https://regexr.com/39p0t](https://regexr.com/39p0t) Within the regexr.com site you can enter the regex under Expression and the web address under Text.
 
+ ![Anchor](./img/Anchor.jpg "Anchor")
+
 ### Quantifiers
 
 * Quantifier symbols
