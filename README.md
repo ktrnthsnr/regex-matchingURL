@@ -5,8 +5,8 @@ This repo provides a gist tutorial location for understanding regex pattern matc
 ### Regex Pattern for Matching a URL 
 https://gist.github.com/ktrnthsnr/542efa4c0e110bd915e0c113822d3b9d
 
-Here is the script reference:
-<script src="https://gist.github.com/ktrnthsnr/542efa4c0e110bd915e0c113822d3b9d.js"></script>
+
+- `<script src="https://gist.github.com/ktrnthsnr/542efa4c0e110bd915e0c113822d3b9d.js"></script>`
 
 ## GitHub URL
 https://github.com/ktrnthsnr/regex-matchingURL

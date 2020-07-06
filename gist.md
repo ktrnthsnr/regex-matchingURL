@@ -1,10 +1,10 @@
-# Regular Expression for Matching a URL
+# Regular Expression for Matching on a URL
 
 This gist provides a tutorial on the regular expression, or `regex`, pattern that can be used to match on a URL or web address. Included are descriptions of how each regular expression component works per the sample regex pattern. As regex is often used in conjunction with a script for validation or other purposes, this gist also includes an example on how to use the regex pattern with a RegExp exec() JavaScript method.
 
 ## Summary
 
-* This regular expression, or regex, pattern can be used to match an URL type.  Here is the regex pattern we'll review in this tutorial:
+* This regular expression, or regex, pattern can be used to match a URL type.  Here is the regex pattern we'll review in this tutorial:
 
 `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`
 
@@ -60,9 +60,6 @@ while ((array = regexMatchingURL.exec(sampleString)) !== null) {
 - [Grouping and Capturing](#grouping-and-capturing)
 - [Bracket Expressions](#bracket-expressions)
 - [Greedy and Lazy Match](#greedy-and-lazy-match)
-- [Boundaries](#boundaries)
-- [Back-references](#back-references)
-- [Look-ahead and Look-behind](#look-ahead-and-look-behind)
 
 ## Regex Components
 
@@ -209,7 +206,7 @@ while ((array = regexMatchingURL.exec(sampleString)) !== null) {
 - Another good site for testing regex pattern matching https://regexr.com/
 
 ## Author
-ktrnthsnr
-Sr. Applications Engineer
-Contact https://ktrnthsnr.github.io/ktportfolio
-Projects https://github.com/ktrnthsnr
+- ktrnthsnr
+- Sr. Applications Engineer
+- Contact https://ktrnthsnr.github.io/ktportfolio
+- Projects https://github.com/ktrnthsnr
